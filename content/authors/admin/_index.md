@@ -14,16 +14,15 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Applied Mathematics, UC Merced
+- name: Applied Math, UC Merced
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. Candidate in Applied Mathematics
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Mathematical Modeling
+#- Numerical Analysis
 
 education:
   courses:
