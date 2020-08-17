@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "5200 N Lake Rd, School of Natural Sciences, Applied Mathematics", city = "Merced", region = "CA", postcode = "95343", country = "United States", country_code = "US"}
+address = {street = "5200 N Lake Rd, University of California, Merced, Applied Mathematics", city = "Merced", region = "CA", postcode = "95343", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -289,7 +289,7 @@ plugins_js  = []
 ############################
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = true
+  netlify_cms = false
 
 ############################
 ## Icon Pack Extensions
