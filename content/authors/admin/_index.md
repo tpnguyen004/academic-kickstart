@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tri (Alex) Nguyen
 
 # Username (this should match the folder name)
 authors:
@@ -10,30 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, Merced, Applied Mathematics
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Ph.D. Candidate in Applied Mathematics
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
+#  - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
+#  - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
 
@@ -70,6 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tri (Alex) Nguyen is a Ph.D. candidate in Applied Mathematics at the University of California, Merced under the academic supervision of Mayya Tokman. As an applied mathematician the scope of his work encompasses mathematical modeling, numerical analysis, and scientific computing. His research interests includes mathematical investigations into complex systems which typically exhibit multi-scale phenomena. His current work focuses on developing advanced mathematical techniques to improve computational performance of particle simulation models of plasma and accelerator physics.
+#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. #He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu #pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
