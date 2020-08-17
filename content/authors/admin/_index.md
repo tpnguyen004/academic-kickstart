@@ -3,8 +3,8 @@
 title: Tri (Alex) Nguyen
 
 # Username (this should match the folder name)
-authors:
-- admin
+authors: admin
+#- admin
 
 # Is this the primary user of the site?
 superuser: true
