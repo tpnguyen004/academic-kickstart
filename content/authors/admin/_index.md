@@ -20,12 +20,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. Candidate in Applied Mathematics
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 education:
+  institution: University of California, Merced
+  year: 2016 - Present
 #  courses:
 #  - course: PhD in Artificial Intelligence
     institution: Stanford University
