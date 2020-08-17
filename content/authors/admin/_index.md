@@ -26,15 +26,13 @@ bio: Ph.D. Candidate in Applied Mathematics
 #- Information Retrieval
 
 education:
-  institution: University of California, Merced
-  year: 2016 - Present
-#  courses:
-#  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-#  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  courses:
+  - course: Ph.D. Applied Mathematics
+    institution: University of California, Merced
+    year: 2016 - Present
+  - course: B.S. Joint Major in Economics and Mathematics
+    institution: University of California, San Diego
+    year: 2013
 #  - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
