@@ -33,9 +33,9 @@ education:
   - course: B.S. Joint Major in Economics and Mathematics
     institution: University of California, San Diego
     year: 2013
-#  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#  - course: B.S. Economics and Mathematics
+#    institution: University of California, San Diego
+#    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
