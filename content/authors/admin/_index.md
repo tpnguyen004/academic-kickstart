@@ -14,7 +14,7 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Applied Mathematics, University of California, Merced
+- name: Applied Mathematics, UC Merced
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
