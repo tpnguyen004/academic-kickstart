@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tri (Alex) Nguyen
+title: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Applied Math, UC Merced
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. Candidate in Applied Mathematics
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#Research Interests:
-#- Mathematical Modeling
-#- Numerical Analysis
-#- Scientific Computing
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
-#education:
-#  courses:
-#  - course: Ph.D. Applied Mathematics
-#    institution: University of California, Merced
-#    year: 2016 - Present
-#  - course: B.S. Joint Major in Economics and Mathematics
-#    institution: University of California, San Diego
-#    year: 2010 - 2013
-#  - course: B.S. Economics and Mathematics
-#    institution: University of California, San Diego
-#    year: 2013
+education:
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,9 +65,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+user_groups:
+- Researchers
+- Visitors
 ---
 
-Tri (Alex) Nguyen is a Ph.D. candidate in the Applied Mathematics program at the University of California, Merced under the academic supervision of Mayya Tokman. He graduated from the University of California, San Diego in 2013 with a Bachelor of Science in Economics and Mathematics. He then attended the (Masters) graduate program in Mathematics at the California State Polytechnic University, Pomona from 2014 to 2016. In 2016 he entered the Ph.D. program in Applied Mathematics at the University of California, Merced. Prior to his academic trajectory, he worked in numerous technical positions in the wireless industry, was a U.S. Marine, and for a very brief period of time was a cartoonist. His current work focuses on developing advanced mathematical techniques to improve computational performance of simulating charged particle dynamics in particle simulation models of plasma and accelerator physics.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
