@@ -20,18 +20,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. Candidate in Applied Mathematics
 
-#interests:
+#Research Interests:
 #- Mathematical Modeling
 #- Numerical Analysis
+#- Scientific Computing
 
-education:
-  courses:
-  - course: Ph.D. Applied Mathematics
-    institution: University of California, Merced
-    year: 2016 - Present
-  - course: B.S. Joint Major in Economics and Mathematics
-    institution: University of California, San Diego
-    year: 2013
+#education:
+#  courses:
+#  - course: Ph.D. Applied Mathematics
+#    institution: University of California, Merced
+#    year: 2016 - Present
+#  - course: B.S. Joint Major in Economics and Mathematics
+#    institution: University of California, San Diego
+#    year: 2010 - 2013
 #  - course: B.S. Economics and Mathematics
 #    institution: University of California, San Diego
 #    year: 2013
